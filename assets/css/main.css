@@ -471,7 +471,7 @@ section {
     position: fixed;
     top: 0;
     left: -100%;
-    width: calc(100% - 600px);
+    width: calc(100% - 35%);
     bottom: 0;
     transition: 0.3s;
     z-index: 9997;
